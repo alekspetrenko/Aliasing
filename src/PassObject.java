@@ -1,6 +1,6 @@
 
 public class PassObject {
-	static void f(Calculator y);{
+	public void f(Calculator y) {
 		y.c = 124.f;
 		}
 
