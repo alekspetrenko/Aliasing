@@ -1,7 +1,7 @@
 
 public class PassObject {
 	PassObject b = new PassObject();
-	public void f(Calculator y) {
+	public static void f(Calculator y) {
 		y.c = 124.f;
 		}
 
